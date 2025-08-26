@@ -1,2 +1,2 @@
-# Assignment-of-CDE
-This repository include all the assignment of Cloud Data Engineering.
+# Assignment-of-Python
+This repository include all the assignment of Python.
